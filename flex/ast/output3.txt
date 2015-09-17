@@ -1,0 +1,9 @@
+ADD_OP
+	INT(1)
+	DIV_OP
+		SUB_OP
+			MUL_OP
+				INT(2)
+				INT(3)
+			INT(4)
+		INT(5)

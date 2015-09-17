@@ -1,0 +1,23 @@
+int a, dd;
+int b;
+int func(char a, int b){
+	int c = fff(5, 10);
+	char d;
+	[[ c d ]]
+	if(z > 0)
+	{
+		return 10;
+	}
+	else if(z < 0)
+	{
+		for(i=0; i<10; i+=1)
+		{
+			z += 1;
+		}
+	}
+	else
+		return 0;
+}
+{int, char} mulFunc(int aa, int bbb)
+{
+}

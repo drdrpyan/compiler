@@ -1,0 +1,10 @@
+int a, dd;
+int b;
+int func(char a, int b)
+{
+int c=5;
+char d;
+std::cout << c << d;
+}
+int c=5;
+char d;
